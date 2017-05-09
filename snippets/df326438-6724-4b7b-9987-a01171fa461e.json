@@ -1,0 +1,11 @@
+{
+  "uuid": "df326438-6724-4b7b-9987-a01171fa461e",
+  "name": "BASH header",
+  "description": "BASH header for new files",
+  "extraSearchTerms": [],
+  "tags": [],
+  "code": "#!/bin/bash\n\n################################################################################\n#\n#    filename: \n# description: \n#     version:\n#      author: Andre Mattie\n#       email: devel@introsec.ca\n#         GPG: 3E72 5D19 3C2D C443 7894  2DD7 4112 2434 0AF0 30EA\n#        date: \n#\n################################################################################",
+  "location": "GENERIC_FILE",
+  "filenameRestrictions": [],
+  "dependencies": []
+}
